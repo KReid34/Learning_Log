@@ -1,4 +1,4 @@
-ll_env/
+venv/
 __pcache__/
 *.sqlite3
 .DS_Store
