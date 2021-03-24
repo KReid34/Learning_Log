@@ -1,4 +1,4 @@
 ll_env/
 __pcache__/
 *.sqlite3
-.DgitS_Store
+.DS_Store
