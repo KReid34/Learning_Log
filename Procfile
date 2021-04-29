@@ -1,1 +1,1 @@
-web: gunicorn LearningLog.wsgi --log-file -
+web: gunicorn manage.wsgi --log-file -
